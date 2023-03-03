@@ -1,4 +1,4 @@
-kernel-pika (1.7) kinetic; urgency=low
+kernel-pika (1.8) kinetic; urgency=low
 
   * Switch to new kernel
 
