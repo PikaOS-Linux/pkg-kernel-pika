@@ -1,3 +1,9 @@
+kernel-pika (1.9) kinetic; urgency=low
+
+  * Update kernel to 6.2.5
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 kernel-pika (1.8) kinetic; urgency=low
 
   * Switch to new kernel
