@@ -5,10 +5,10 @@ dpkg-sig --sign builder ./output/kernel-pika*.deb
 rsync -azP --exclude '*.deb' ferreo@direct.pika-os.com:/srv/www/pikappa/ ./output/repo
 
 # Remove our existing package from the repo
-reprepro -V --basedir ./output/repo/ removefilter kinetic 'Package (% kernel-pika*)'
+reprepro -V --basedir ./output/repo/ removefilter lunar 'Package (% kernel-pika*)'
 
 # Add the new package to the repo
-reprepro -V --basedir ./output/repo/ includedeb kinetic ./output/kernel-pika*.deb
+reprepro -V --basedir ./output/repo/ includedeb lunar ./output/kernel-pika*.deb
 
 # Push the updated ppa repo to the server
 rsync -azP ./output/repo/ ferreo@direct.pika-os.com:/srv/www/pikappa/

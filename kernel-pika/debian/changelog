@@ -1,3 +1,9 @@
+kernel-pika (2.0) lunar; urgency=low
+
+  * Update kernel to 6.3.0
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 kernel-pika (2.0) kinetic; urgency=low
 
   * Update kernel to 6.3.0
