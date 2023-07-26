@@ -1,3 +1,9 @@
+kernel-pika (2.2-100pika1.lunar) lunar; urgency=low
+
+  * 6.4.6 update
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 kernel-pika (2.2-99pika1.lunar) lunar; urgency=low
 
   * 6.4.3 update
