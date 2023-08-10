@@ -9,7 +9,7 @@ Standards-Version: 4.6.1
 Package: kernel-pika
 Section: kernel
 Architecture: amd64
-Depends: ${misc:Depends}, linux-image-6.4.6-pikaos, linux-headers-6.4.6-pikaos, kernel-pika-config, linux-cpupower
+Depends: ${misc:Depends}, linux-image-6.4.9-pikaos, linux-headers-6.4.9-pikaos, kernel-pika-config, linux-cpupower
 Description: metapackage for installing PikaOS kernel
 
 
