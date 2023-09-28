@@ -1,3 +1,7 @@
+kernel-pika (2.4-0pika1.mantic) mantic; urgency=low
+
+  * Mantic and 6.5.5
+
 kernel-pika (2.3-3pika1.lunar) lunar; urgency=low
 
   * Goodbye 6.4.9
