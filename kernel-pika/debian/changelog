@@ -1,6 +1,14 @@
+kernel-pika (2.3-4pika1.lunar) lunar; urgency=low
+
+  * 6.5.5 Update
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 kernel-pika (2.3-3pika1.lunar) lunar; urgency=low
 
   * Goodbye 6.4.9
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
 
 kernel-pika (2.3-2pika1.lunar) lunar; urgency=low
 
