@@ -12,6 +12,11 @@ Architecture: amd64
 Depends: ${misc:Depends}, linux-image-6.6.6-pikaos, linux-headers-6.6.6-pikaos, kernel-pika-config, linux-cpupower
 Description: metapackage for installing PikaOS kernel
 
+Package: kernel-pika-nvidia
+Section: kernel
+Architecture: amd64
+Depends: kernel-pika, linux-modules-nvidia-6.6.6-pikaos
+Description: metapackage for installing PikaOS kernel
 
 Package: kernel-pika-config
 Section: kernel
