@@ -16,7 +16,7 @@ Package: kernel-pika-nvidia
 Section: kernel
 Architecture: amd64
 Depends: kernel-pika, linux-modules-nvidia-6.6.6-pikaos
-Description: metapackage for installing PikaOS kernel
+Description: metapackage for installing PikaOS kernel with nvidia driver modules
 
 Package: kernel-pika-config
 Section: kernel
