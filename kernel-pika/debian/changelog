@@ -1,3 +1,9 @@
+kernel-pika (2.7-100pika5) pikauwu; urgency=low
+
+  * ACPI Fix
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 kernel-pika (2.7-100pika4) pikauwu; urgency=low
 
   * 6.8.3
